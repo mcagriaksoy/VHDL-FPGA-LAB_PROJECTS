@@ -3,10 +3,14 @@ Digital systems II Lab and Lecture Projects for Xilinx-7 Series FPGA
 All the codes written belong to me and can be shared anywhere.
 
 
-Lab 1: Introduction to Xilinx ISE Software and FPGA
+Lab 1: Introduction to Xilinx ISE Software and FPGA 
+
 Lab 2: Introduction to VHDL
+
 Lab 3: Combinational Circuit Design
+
 Lab 4: ALU Design
+
 Lab 5: Digital Clock
 Lab 6: Rotating Squares
 Lab 7: Finite State Machines
