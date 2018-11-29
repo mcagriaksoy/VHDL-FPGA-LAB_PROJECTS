@@ -1,6 +1,6 @@
 # Digital_Systems_II_FPGA-VHDL-
 Digital systems II Lab and Lecture Projects for Xilinx-7 Series FPGA
-All the codes written belong to me and can be shared anywhere.
+All the codes written by me and can be shared anywhere.
 
 
 Lab 1: Introduction to Xilinx ISE Software and FPGA 
