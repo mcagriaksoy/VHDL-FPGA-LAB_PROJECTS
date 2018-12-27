@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\firat\Desktop\dijital2\fpga\div.ncd
+OUTFILE=C:\Users\firat\Desktop\dijital2\fpga\div.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\firat\Desktop\dijital2\fpga
+LICENSE=WebPack
+USER_INFO=211609388_0_0_235

@@ -1,0 +1,38 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Dec 25 13:01:37 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "seg_sel<7>" LOCATE = SITE "U13" LEVEL 1;
+COMP "dvsr<0>" LOCATE = SITE "L16" LEVEL 1;
+COMP "dvsr<1>" LOCATE = SITE "M13" LEVEL 1;
+COMP "dvsr<2>" LOCATE = SITE "R15" LEVEL 1;
+COMP "dvsr<3>" LOCATE = SITE "R17" LEVEL 1;
+COMP "dvnd<0>" LOCATE = SITE "U18" LEVEL 1;
+COMP "dvnd<1>" LOCATE = SITE "R13" LEVEL 1;
+COMP "ready" LOCATE = SITE "V11" LEVEL 1;
+COMP "dvnd<2>" LOCATE = SITE "T8" LEVEL 1;
+COMP "dvnd<3>" LOCATE = SITE "U8" LEVEL 1;
+COMP "dvnd<4>" LOCATE = SITE "R16" LEVEL 1;
+COMP "clk" LOCATE = SITE "E3" LEVEL 1;
+COMP "dvnd<5>" LOCATE = SITE "T13" LEVEL 1;
+COMP "done_tick" LOCATE = SITE "V12" LEVEL 1;
+COMP "seg_out<0>" LOCATE = SITE "H15" LEVEL 1;
+COMP "seg_out<1>" LOCATE = SITE "T10" LEVEL 1;
+COMP "seg_out<2>" LOCATE = SITE "R10" LEVEL 1;
+COMP "seg_out<3>" LOCATE = SITE "K16" LEVEL 1;
+COMP "seg_out<4>" LOCATE = SITE "K13" LEVEL 1;
+COMP "seg_sel<0>" LOCATE = SITE "J17" LEVEL 1;
+COMP "seg_out<5>" LOCATE = SITE "P15" LEVEL 1;
+COMP "seg_sel<1>" LOCATE = SITE "J18" LEVEL 1;
+COMP "seg_out<6>" LOCATE = SITE "T11" LEVEL 1;
+COMP "start" LOCATE = SITE "P17" LEVEL 1;
+COMP "seg_sel<2>" LOCATE = SITE "T9" LEVEL 1;
+COMP "seg_out<7>" LOCATE = SITE "L18" LEVEL 1;
+COMP "seg_sel<3>" LOCATE = SITE "J14" LEVEL 1;
+COMP "seg_sel<4>" LOCATE = SITE "P14" LEVEL 1;
+COMP "seg_sel<5>" LOCATE = SITE "T14" LEVEL 1;
+COMP "seg_sel<6>" LOCATE = SITE "K2" LEVEL 1;
+COMP "reset" LOCATE = SITE "J15" LEVEL 1;
+SCHEMATIC END;
+
