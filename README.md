@@ -1,4 +1,4 @@
-# Digital_Systems_II_FPGA-VHDL-
+# FPGA VHDL Lecture Projects with explanation
 Digital systems II Lab and Lecture Projects for Xilinx-7 Series FPGA
 All the codes written by me and can be shared anywhere.
 
